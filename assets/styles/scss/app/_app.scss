@@ -1,0 +1,21 @@
+.app {
+  display: grid;
+  grid-template-areas:
+    "header"
+    "content"
+    "footer";
+  grid-template-columns: repeat(auto);
+  grid-template-rows: 60px auto auto;
+
+  .header {
+    grid-area: header;
+  }
+
+  .main-content {
+    grid-area: content;
+  }
+
+  .footer {
+    grid-area: footer;
+  }
+}
