@@ -2,6 +2,7 @@
 
 ## Ícones
 
+- Arquivo ttf (que é lido como fonte) foi criado no [Icomoon](https://icomoon.io/)
 - Estão dentro do arquivo de ícones (`icons.ttf`).
 - Para instalar e ficar disponível para uso, primeiro importe a fonte no projeto usando `@font-face` da seguinte maneira:
 
