@@ -27,7 +27,7 @@ body {
 }
 ```
 
-> ícones disponíveis:
+> Ícones disponíveis:
 
 Gamepad = `\e900`
 
