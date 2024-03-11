@@ -1,20 +1,20 @@
-# Guia de ícones
+# Icon Guide
 
-## Ícones
+## Icon
 
-- Arquivo ttf (que é lido como fonte) foi criado no [Icomoon](https://icomoon.io/)
-- Estão dentro do arquivo de ícones (`icons.ttf`).
-- Para instalar e ficar disponível para uso, primeiro importe a fonte no projeto usando `@font-face` da seguinte maneira:
+- The TTF file (which is read as a font) was created on [Icomoon](https://icomoon.io/)
+- They are inside the icons file (icons.ttf).
+- To install and make it available for use, first import the font into the project using @font-face as follows:
 
 ```scss
 @font-face {
-  font-family: 'icons';
+  font-family: "icons";
   src: url(/assets/icons/icons.ttf);
 }
 
 *,
 body {
-  font-family: 'Roboto', 'icons', sans-serif;
+  font-family: "Roboto", "icons", sans-serif;
 }
 ```
 
@@ -22,24 +22,20 @@ body {
 
 ```scss
 .icon-gamepad:before {
-  content: '\e0100';
+  content: "\e0100";
   font-size: 16px;
   color: #fff;
 }
 ```
 
-> Ícones disponíveis:
+### Available Icons:
 
-Gamepad = `\e900`
-
-Mobile = `\e901`
-
-House = `\e902`
-
-Gráfico = `\e903`
-
-Menu = `\e906`
-
-Estrela = `\e905`
-
-Notificação = `\e904`
+| Icon         | Content (code) |
+| ------------ | -------------- |
+| Gamepad      | \e900          |
+| Mobile       | \e901          |
+| House        | \e902          |
+| Graph        | \e903          |
+| Notification | \e904          |
+| Star         | \e905          |
+| Menu         | \e906          |
