@@ -1,4 +1,4 @@
-# Alura Store (Explorando ícones e grid: Treinamento Alura)
+# Alura Store (Explorando ícones e grid com Alura)
 
 ![Alura Store Thumbnail](./assets/img/thumbnail.png)
 
@@ -16,7 +16,6 @@ For more information about the courses and materials offered by Alura, please vi
 
 The following are the key technologies and tools used in the development of this app:
 
-- **React Native**: It's a mobile app development framework that allows you to build native apps for iOS and Android using JavaScript and React. It enables mobile app development with a single codebase, providing a native user experience.
 - **HTML/SCSS**: Used for structuring and styling the page.
 - **Grid**: Set the elements as a grid container
 - **Icomoon**: A platform where you can create icon packs, and use icons as fonts.
