@@ -1,8 +1,8 @@
-# Alura Store (Explorando ícones e grid com Alura)
+# Alura Store (Exploring icons and grid with Alura)
 
 ![Alura Store Thumbnail](./assets/img/thumbnail.png)
 
-**Alura Store** é uma landing page fruto dos meus estudos, refinado com os ensinamentos especializados da Alura. Foi desenvolvida para aprimorar minhas habilidades em grid layout e uso de ícones como fonte, oferece uma oportunidade prática para mergulhar em um layout básico e eficaz.
+**Alura Store** is a landing page that is the result of my studies, refined with Alura's specialized teachings. It was developed to improve my skills in grid layout and using icons as a source, it offers a practical opportunity to delve into a basic and effective layout.
 
 ## Credits
 
