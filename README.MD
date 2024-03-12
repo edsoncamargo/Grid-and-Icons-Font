@@ -1,4 +1,4 @@
-# Alura Store (Exploring icons and grid with Alura)
+# Alura Store (exploring icons and grid with Alura)
 
 ![Alura Store Thumbnail](./assets/img/thumbnail.png)
 
@@ -27,8 +27,8 @@ To view this Alura Store locally, follow these steps:
 1. Clone the repository:
 
    ```bash
-    git clone https://github.com/edsoncamargo/alura-store
-    cd your-path/alura-store
+    git clone https://github.com/edsoncamargo/alura-store-lp
+    cd your-path/alura-store-lp
    ```
 
 2. Install Node.js: Sass is built with Node.js, so you need to install it first. You can download and install Node.js from the official website: Node.js.
